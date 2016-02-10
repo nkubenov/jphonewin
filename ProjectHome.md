@@ -1,0 +1,3 @@
+jPhone is a Windows utility written in C# for mounting iPhone, iPod Touch and iPad as hard drives without any reliance on iTunes or its components.
+
+USB communications are mediated by LibUSBDotNet while mounting is handled by Dokan. As of this writing, jPhone accomplishes everything mentioned above (and is the only Windows utility of its kind) but could (very) easily be extended to support additional functions of those devices, such as app installation.
